@@ -1,4 +1,4 @@
-<h1>Jogo DO numero secreto</h1>]
+<h1>Jogo DO numero secreto</h1>
 
 
 <p>O jogo criado junto as aulas do alura .</p>
